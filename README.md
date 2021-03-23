@@ -1,2 +1,3 @@
 # hello-world
-Getting started with GitHub
+
+a bit about yourself.
